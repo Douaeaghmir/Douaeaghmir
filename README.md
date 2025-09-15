@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Douaeaghmir
 - 👀 I’m interested in Anything related to what happens behind the screen and how computers work.
-- 🌱 I’m currently learning C and Bash scripting
-- 💞️ I’m looking to collaborate on Cybersecurity and software engineering projects.
-
-- 📫 How to reach me : douae.aghmir@icloud.com
-- student at 1337.
+- 🌱 I was learning C and Bash scripting
+- learning data sience and AI.
+- 💞️ I’m looking to improve my self even more in IT.
+- 📫 How to reach me : douaeaghmir2@gmail.com
+- selflearner
 - ⚡ Fun fac:I’ve mastered Unity and Blender, allowing me to create impressive 3D projects and immersive experiences.
 
 <!---
