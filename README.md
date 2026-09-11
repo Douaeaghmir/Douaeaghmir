@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Douaeaghmir
 - 👀 I’m interested in Anything related to what happens behind the screen and how computers work.
-- 🌱 I was learning C and Bash scripting
+- 🌱 I was learning C .
 - learning data sience and AI.
 - 💞️ I’m looking to improve my self even more in IT.
 - 📫 How to reach me : douaeaghmir2@gmail.com
